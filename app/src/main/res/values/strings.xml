@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Country</string>
+    <string name="start">Start</string>
+    <string name="country">Country</string>
+    <string name="what_is_the_capital_city_of">What is the Capital City of:</string>
+    <string name="submit">Submit</string>
+    <string name="score">Score:</string>
+    <string name="restart">Restart</string>
+</resources>
